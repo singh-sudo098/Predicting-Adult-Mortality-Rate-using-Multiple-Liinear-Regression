@@ -1,0 +1,207 @@
+HDI Rank (2018),Country,2017
+170,Afghanistan,0.493
+69,Albania,0.789
+82,Algeria,0.758
+36,Andorra,0.852
+149,Angola,0.576
+74,Antigua and Barbuda,0.774
+48,Argentina,0.832
+81,Armenia,0.758
+6,Australia,0.937
+20,Austria,0.912
+87,Azerbaijan,0.752
+60,Bahamas,0.804
+45,Bahrain,0.839
+135,Bangladesh,0.609
+56,Barbados,0.813
+50,Belarus,0.815
+17,Belgium,0.917
+103,Belize,0.719
+163,Benin,0.515
+134,Bhutan,0.615
+114,Bolivia (Plurinational State of),0.7
+75,Bosnia and Herzegovina,0.767
+94,Botswana,0.724
+79,Brazil,0.76
+43,Brunei Darussalam,0.843
+52,Bulgaria,0.813
+182,Burkina Faso,0.429
+185,Burundi,0.421
+126,Cabo Verde,0.647
+146,Cambodia,0.578
+150,Cameroon,0.56
+13,Canada,0.921
+188,Central African Republic,0.376
+187,Chad,0.401
+42,Chile,0.845
+85,China,0.753
+79,Colombia,0.76
+156,Comoros,0.539
+138,Congo,0.609
+179,Congo (Democratic Republic of the),0.456
+68,Costa Rica,0.792
+46,Croatia,0.835
+72,Cuba,0.777
+31,Cyprus,0.871
+26,Czechia,0.888
+165,C?te d'Ivoire,0.512
+11,Denmark,0.929
+171,Djibouti,0.492
+98,Dominica,0.723
+89,Dominican Republic,0.741
+85,Ecuador,0.757
+116,Egypt,0.696
+124,El Salvador,0.665
+144,Equatorial Guinea,0.59
+182,Eritrea,0.431
+30,Estonia,0.879
+138,Eswatini (Kingdom of),0.603
+173,Ethiopia,0.467
+98,Fiji,0.721
+12,Finland,0.924
+26,France,0.89
+115,Gabon,0.7
+174,Gambia,0.459
+70,Georgia,0.783
+4,Germany,0.938
+142,Ghana,0.591
+32,Greece,0.871
+78,Grenada,0.76
+126,Guatemala,0.649
+174,Guinea,0.463
+178,Guinea-Bissau,0.46
+123,Guyana,0.668
+169,Haiti,0.501
+132,Honduras,0.621
+4,"Hong Kong, China (SAR)",0.937
+43,Hungary,0.841
+6,Iceland,0.935
+129,India,0.643
+111,Indonesia,0.704
+65,Iran (Islamic Republic of),0.799
+120,Iraq,0.684
+3,Ireland,0.939
+22,Israel,0.904
+29,Italy,0.881
+96,Jamaica,0.725
+19,Japan,0.913
+102,Jordan,0.722
+50,Kazakhstan,0.813
+147,Kenya,0.574
+132,Kiribati,0.623
+22,Korea (Republic of),0.904
+57,Kuwait,0.809
+122,Kyrgyzstan,0.671
+140,Lao People's Democratic Republic,0.602
+39,Latvia,0.849
+93,Lebanon,0.732
+164,Lesotho,0.514
+176,Liberia,0.466
+110,Libya,0.704
+18,Liechtenstein,0.916
+34,Lithuania,0.866
+21,Luxembourg,0.908
+162,Madagascar,0.518
+172,Malawi,0.482
+61,Malaysia,0.802
+104,Maldives,0.716
+184,Mali,0.426
+28,Malta,0.883
+117,Marshall Islands,0.696
+161,Mauritania,0.524
+66,Mauritius,0.793
+76,Mexico,0.765
+135,Micronesia (Federated States of),0.612
+107,Moldova (Republic of),0.709
+92,Mongolia,0.729
+52,Montenegro,0.813
+121,Morocco,0.675
+180,Mozambique,0.442
+145,Myanmar,0.577
+130,Namibia,0.643
+147,Nepal,0.574
+10,Netherlands,0.932
+14,New Zealand,0.92
+126,Nicaragua,0.653
+189,Niger,0.373
+158,Nigeria,0.533
+82,North Macedonia,0.758
+1,Norway,0.953
+47,Oman,0.833
+152,Pakistan,0.558
+55,Palau,0.811
+119,"Palestine, State of",0.689
+67,Panama,0.793
+155,Papua New Guinea,0.543
+98,Paraguay,0.722
+82,Peru,0.756
+106,Philippines,0.709
+32,Poland,0.868
+40,Portugal,0.848
+41,Qatar,0.848
+52,Romania,0.813
+49,Russian Federation,0.822
+157,Rwanda,0.529
+73,Saint Kitts and Nevis,0.774
+89,Saint Lucia,0.744
+94,Saint Vincent and the Grenadines,0.726
+111,Samoa,0.706
+137,Sao Tome and Principe,0.603
+36,Saudi Arabia,0.856
+166,Senegal,0.51
+63,Serbia,0.794
+62,Seychelles,0.8
+181,Sierra Leone,0.435
+9,Singapore,0.934
+36,Slovakia,0.854
+24,Slovenia,0.899
+153,Solomon Islands,0.555
+113,South Africa,0.704
+186,South Sudan,0.414
+25,Spain,0.891
+71,Sri Lanka,0.776
+168,Sudan,0.507
+98,Suriname,0.722
+8,Sweden,0.935
+2,Switzerland,0.943
+154,Syrian Arab Republic,0.544
+125,Tajikistan,0.651
+159,Tanzania (United Republic of),0.522
+77,Thailand,0.762
+131,Timor-Leste,0.624
+167,Togo,0.51
+105,Tonga,0.717
+63,Trinidad and Tobago,0.799
+91,Tunisia,0.738
+59,Turkey,0.805
+108,Turkmenistan,0.708
+159,Uganda,0.522
+88,Ukraine,0.747
+35,United Arab Emirates,0.864
+15,United Kingdom,0.919
+15,United States,0.919
+57,Uruguay,0.807
+108,Uzbekistan,0.707
+141,Vanuatu,0.595
+96,Venezuela (Bolivarian Republic of),0.735
+118,Viet Nam,0.69
+177,Yemen,0.463
+143,Zambia,0.589
+150,Zimbabwe,0.553
+,Human Development,..
+ ,Very high human development,0.89
+ ,High human development,0.746
+ ,Medium human development,0.63
+ ,Low human development,0.505
+ ,Developing Countries,0.683
+,Regions,..
+ ,Arab States,0.701
+ ,East Asia and the Pacific,0.737
+ ,Europe and Central Asia,0.776
+ ,Latin America and the Caribbean,0.758
+ ,South Asia,0.639
+ ,Sub-Saharan Africa,0.539
+ ,Least Developed Countries,0.525
+ ,Small Island Developing States,0.722
+ ,Organization for Economic Co-operation and Development,0.894
+ ,World,0.729
